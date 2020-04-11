@@ -1,0 +1,3 @@
+[submodule "android-client-dewallet"]
+	path = android-client-dewallet
+	url = git@github.com:gerywahyunugraha/android-client-dewallet.git
