@@ -4,9 +4,6 @@
 [submodule "dewallet-identity-explorer"]
 	path = dewallet-identity-explorer
 	url = https://github.com/gerywahyunugraha/dewallet-identity-explorer.git
-[submodule "dewallet-identitiy"]
-	path = dewallet-identitiy
-	url = git@github.com:gerywahyunugraha/dewallet-identitiy.git
 [submodule "dewallet-identity"]
-	path = dewallet-identitiy
-	url = git@github.com:gerywahyunugraha/dewallet-identitiy.git
+	path = dewallet-identity
+	url = git@github.com:gerywahyunugraha/dewallet-identity.git
