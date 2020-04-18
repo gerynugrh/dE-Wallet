@@ -7,3 +7,6 @@
 [submodule "dewallet-identity"]
 	path = dewallet-identity
 	url = git@github.com:gerywahyunugraha/dewallet-identity.git
+[submodule "dewallet-transaction"]
+	path = dewallet-transaction
+	url = git@github.com:gerywahyunugraha/dewallet-transaction.git
