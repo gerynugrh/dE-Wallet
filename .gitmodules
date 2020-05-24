@@ -10,3 +10,9 @@
 [submodule "dewallet-transaction"]
 	path = dewallet-transaction
 	url = git@github.com:gerywahyunugraha/dewallet-transaction.git
+[submodule "dewallet-store-sample"]
+	path = dewallet-store-sample
+	url = git@github.com:gerywahyunugraha/dewallet-store-sample.git
+[submodule "dewallet-sample-uangkita"]
+	path = dewallet-sample-uangkita
+	url = git@github.com:gerywahyunugraha/dewallet-sample-uangkita.git
